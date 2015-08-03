@@ -1,0 +1,10 @@
+Package: com.alphaMatterr.com
+Name: SudokuSolver
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Sudoku Helper
+Maintainer: AlphaMatterr
+Author: AlphaMatterr
+Section: Tweaks
+Version: 0.0.1-282
+Installed-Size: 2508
