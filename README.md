@@ -27,7 +27,30 @@ A sweet sudoku mod for sudoku by Tic Bits
 
 <h4>PICTURES:</h4>
 
-<a href="http://s16.postimg.org/5931pip6d/Reduce_All.png"></a>
+Original:
+
+![alt tag](https://raw.github.com/AlphaMatterr/SudokuMod/master/Pictures/Before.PNG)
+
+Enumerate all cells with 1-9:
+
+![alt tag](https://raw.github.com/AlphaMatterr/SudokuMod/master/Pictures/Enum_All.PNG)
+
+Reduce all enumerations to possible cell values:
+
+![alt tag](https://raw.github.com/AlphaMatterr/SudokuMod/master/Pictures/Reduce_All.PNG)
+
+Solve Puzzle:
+
+![alt tag](https://raw.github.com/AlphaMatterr/SudokuMod/master/Pictures/Solve_Puzzle.PNG)
+
+Check if entered value for selected cell is correct:
+
+![alt tag](https://raw.github.com/AlphaMatterr/SudokuMod/master/Pictures/CheckCell_Right.PNG)
+
+Check if entered value for selected cell is correct:
+
+![alt tag](https://raw.github.com/AlphaMatterr/SudokuMod/master/Pictures/CheckCell_Wrong.PNG)
+
 
 <h4>CREDITS:</h4>
 
