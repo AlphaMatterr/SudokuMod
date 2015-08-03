@@ -15,8 +15,8 @@ A sweet sudoku mod for sudoku by Tic Bits
 
 <h4>TODO:</h4>
 
-- add compatibility with other devices (MEDIUM)
-- add landscape AND portrait compatibility (MEDIUM)
+- add compatibility with other devices
+- add landscape AND portrait compatibility
 - fix bugs
 
 <h4>BUGS:</h4>
