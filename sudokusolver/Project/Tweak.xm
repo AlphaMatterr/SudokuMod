@@ -178,11 +178,10 @@ typedef struct {
 	
 	CDAnonymousStruct2 *allVals = (CDAnonymousStruct2 *)[self performSelector:@selector(cells)];
 	NSLog(@"correct: %i || entered: %i ||  given: %i ||  notes: %hi ||  color: %i", allVals[%orig].correct,
-																					allVals[%orig].entered,
-																					allVals[%orig].given,
-																					allVals[%orig].notes,
-																					allVals[%orig].color);		
-																					
+											allVals[%orig].entered,
+											allVals[%orig].given,
+											allVals[%orig].notes,
+											allVals[%orig].color);		
 	return %orig;
 }
 
