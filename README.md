@@ -25,7 +25,9 @@ A sweet sudoku mod for sudoku by Tic Bits
 2. Undo database acts wonky sometimes when using the extra buttons...
 3. Reduction option is blind to conflicts -> it'll reduce a box even if the number is conflicted
 
-<h4>NOTE:</h4>
+<h4>PICTURES:</h4>
+
+<a href="http://s16.postimg.org/5931pip6d/Reduce_All.png"></a>
 
 <h4>CREDITS:</h4>
 
